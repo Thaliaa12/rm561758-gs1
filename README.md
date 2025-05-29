@@ -1,4 +1,4 @@
-# Thalia Aiko Yamamoto - RM561758
+#  Thalia Aiko Yamamoto - RM561758
 
 ## Exibir data e hora
     'Uso: ./mostra_data.sh'
